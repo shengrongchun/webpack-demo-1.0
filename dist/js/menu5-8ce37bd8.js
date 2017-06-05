@@ -1,0 +1,1 @@
+webpackJsonp([1,7],{10:function(module,exports,n){(function($){function n(n){$("#title").html("this is menu5")}module.exports={init:n}}).call(exports,n(1))}});
